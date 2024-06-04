@@ -1,4 +1,5 @@
-## Hi there 👋
+# Halo, Saya [Nama Anda] 👋
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=dracula)
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={defriajy}&theme=dracula&exclude={exclude}
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=dark)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=vue)
