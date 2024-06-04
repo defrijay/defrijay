@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya [Defrizal Yahdiyan Risyad] 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
 
