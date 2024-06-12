@@ -1,4 +1,5 @@
 # Halo, Saya Defrizal Yahdiyan Risyad 👋
+![Dancing Cat](https://example.com/dancing_cat.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
 
