@@ -26,7 +26,7 @@
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Defrizal Yahdiyan Risyad](https://linkedin.com/in/defrizal-yahdiyan-risyad)  
+- LinkedIn: [Defrizal Yahdiyan Risyad](www.linkedin.com/in/defrizalyr)  
 - Portfolio: [Coming Soon!]  
 - Email: defrizalyahdiyanrisyad@gmail.com  
 
