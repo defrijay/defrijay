@@ -28,7 +28,7 @@
 
 - LinkedIn: [Defrizal Yahdiyan Risyad](https://linkedin.com/in/defrizal-yahdiyan-risyad)  
 - Portfolio: [Coming Soon!]  
-- Email: defrizal.risyad@example.com  
+- Email: defrizalyahdiyanrisyad@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=tokyonight)
