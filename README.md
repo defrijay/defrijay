@@ -27,3 +27,13 @@
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=defrijay&theme=tokyonight)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=defrijay&theme=tokyonight)
 ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+## 🤝 Let's Connect!
+
+- LinkedIn: [Defrizal Yahdiyan Risyad](https://linkedin.com/in/defrizal-yahdiyan-risyad)  
+- Portfolio: [Coming Soon!]  
+- Email: defrizal.risyad@example.com  
+
+---
+
+**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
