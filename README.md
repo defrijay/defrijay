@@ -8,11 +8,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages**: Python, JavaScript, PHP, Java  
-- **Frameworks**: Laravel, Vue.js, MEVN Stack  
+- **Programming Languages**: Python, JavaScript, PHP, Java, Dart
+- **Frameworks**: Laravel, Vue.js, MEVN Stack, MERN Stack, Flutter
 - **Database**: MongoDB, MySQL  
 - **Machine Learning**: TensorFlow, Keras, PyTorch  
-- **Tools**: Git, VSCode, Figma, Adobe Illustrator  
+- **Tools**: Git, VSCode, Figma  
 
 ---
 
@@ -20,7 +20,15 @@
 
 - **E-Commerce Platform**: Developing "MomoMart" using **MEVN Stack**.  
 - **Text Summarization**: Implementing **LSTM-based summarization** for my NLP course.  
-- **Sign Language Recognition**: Translating hand gestures into text using computer vision.  
+- **Sign Language Recognition**: Translating hand gestures into text using computer vision.
+
+--- 
+
+## 🤝 Let's Connect!
+
+- LinkedIn: [Defrizal Yahdiyan Risyad](https://linkedin.com/in/defrizal-yahdiyan-risyad)  
+- Portfolio: [Coming Soon!]  
+- Email: defrizal.risyad@example.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=tokyonight)
@@ -28,11 +36,7 @@
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=defrijay&theme=tokyonight)
 ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## 🤝 Let's Connect!
 
-- LinkedIn: [Defrizal Yahdiyan Risyad](https://linkedin.com/in/defrizal-yahdiyan-risyad)  
-- Portfolio: [Coming Soon!]  
-- Email: defrizal.risyad@example.com  
 
 ---
 
