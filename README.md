@@ -26,9 +26,9 @@
 
 ## 🤝 Let's Connect!
 
-- LinkedIn: [Defrizal Yahdiyan Risyad](www.linkedin.com/in/defrizalyr](https://www.linkedin.com/in/defrizal-yahdiyan-risyad-221327209/)  
-- Portfolio: [Coming Soon!]  
-- Email: defrizalyahdiyanrisyad@gmail.com  
+- LinkedIn: [[Defrizal Yahdiyan Risyad](https://www.linkedin.com/in/defrizalyr/)]
+- Portfolio: (https://defrizalyr-portofolio.vercel.app/)  
+- Email: defrijay@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=tokyonight)
