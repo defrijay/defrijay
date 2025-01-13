@@ -1,7 +1,7 @@
 # Hi there, I'm Defrizal Yahdiyan Risyad 👋
 
 🎓 **Computer Science Student** at Universitas Pendidikan Indonesia, class of 2022 (C1).  
-💻 Passionate about **Software Development**, **UI/UX Design**, and **Data Science**.  
+💻 Passionate about **Software Development**, **Data Science**, and **AI/ML**.  
 🎨 I enjoy creating stunning **web designs** and **graphics** for an engaging user experience.
 
 ---
@@ -27,7 +27,7 @@
 ## 🤝 Let's Connect!
 
 - LinkedIn: [[Defrizal Yahdiyan Risyad](https://www.linkedin.com/in/defrizalyr/)]
-- Portfolio: (https://defrizalyr-portofolio.vercel.app/)  
+- Portfolio Software Development: (https://defrizalyr-portofolio.vercel.app/)  
 - Email: defrijay@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
