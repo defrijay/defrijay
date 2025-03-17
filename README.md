@@ -11,7 +11,7 @@
 - **Programming Languages**: Python, JavaScript, PHP, Java, Dart
 - **Frameworks**: Laravel, Vue.js, MEVN Stack, MERN Stack, Flutter
 - **Database**: MongoDB, MySQL  
-- **Machine Learning**: TensorFlow, Keras, PyTorch  
+- **AI/Machine Learning**: TensorFlow, Keras, PyTorch, seabron, matplotbib  
 - **Tools**: Git, VSCode, Figma  
 
 ---
