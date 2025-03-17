@@ -27,7 +27,7 @@
 ## 🤝 Let's Connect!
 
 - LinkedIn: [[Defrizal Yahdiyan Risyad](https://www.linkedin.com/in/defrizalyr/)]
-- Portfolio Software Development: (https://defrizalyr-portofolio.vercel.app/)  
+- Portfolio : ([https://defrizalyr-portofolio.vercel.app/](https://defrizal-portofolio.vercel.app/))  
 - Email: defrijay@gmail.com  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
