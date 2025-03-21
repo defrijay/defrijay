@@ -1,8 +1,8 @@
 # Hi there, I'm Defrizal Yahdiyan Risyad 👋
 
 🎓 **Computer Science Student** at Universitas Pendidikan Indonesia, class of 2022 (C1).  
-💻 Passionate about **Software Development**, **Data Science**, and **AI/ML**.  
-🎨 I enjoy creating stunning **web designs** and **graphics** for an engaging user experience.
+💻 Passionate about **Business Intelligence**, **Data Science**, and **AI/ML**.  
+🎨 I also enjoy creating stunning **web designs** and **graphics** for an engaging user experience.
 
 ---
 
