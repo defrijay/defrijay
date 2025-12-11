@@ -53,7 +53,7 @@ Here are some highlights from my data portfolio:
 
 ## 🤝 Let's Connect!
 
-I am currently open to **Internship** or **Full-time** opportunities in Data Analytics.
+I am currently open to **Internship** or **Full-time** opportunities in Data Analytics or related fields.
 
 - 💼 **LinkedIn**: [Defrizal Yahdiyan Risyad](https://www.linkedin.com/in/defrizalyr/)
 - 📧 **Email**: [defrijay@gmail.com](mailto:defrijay@gmail.com)
