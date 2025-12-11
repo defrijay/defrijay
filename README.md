@@ -49,10 +49,16 @@ Here are some highlights from my data portfolio:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defrijay&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=tokyonight)
+
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=defrijay&theme=tokyonight)
+
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=defrijay&theme=tokyonight)
+
+
+
 
 ---
 
@@ -69,3 +75,5 @@ I am currently open to **Internship** or **Full-time** opportunities in Data Ana
   <br>
   <i>"Data beats opinion."</i>
 </div>
+
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
