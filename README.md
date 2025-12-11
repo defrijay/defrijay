@@ -18,12 +18,6 @@ Here are the tools and technologies I use to extract, clean, analyze, and visual
 | **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
-<details>
-  <summary>🌐 <b>Web Development Skills (Click to expand)</b></summary>
-  <br>
-  Developed full-stack applications using <b>Laravel, Vue.js, MEVN Stack, Flutter, PHP, JavaScript</b>.
-</details>
-
 ---
 
 ## 🌟 Featured Data Projects
@@ -49,16 +43,11 @@ Here are some highlights from my data portfolio:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=defrijay&show_icons=true&count_private=true&theme=tokyonight)
-
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=defrijay&theme=tokyonight)
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=defrijay&theme=tokyonight)
 
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=defrijay&theme=tokyonight)
-
-
-
 
 ---
 
@@ -70,10 +59,7 @@ I am currently open to **Internship** or **Full-time** opportunities in Data Ana
 - 📂 **Portfolio**: [defrizal-portofolio.vercel.app](https://defrizal-portofolio.vercel.app/)
 - 📧 **Email**: [defrijay@gmail.com](mailto:defrijay@gmail.com)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <br>
-  <i>"Data beats opinion."</i>
-</div>
 
 ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
