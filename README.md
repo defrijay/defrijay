@@ -1,7 +1,7 @@
 # Hi there, I'm Defrizal Yahdiyan Risyad 👋
 
 🎓 **Final-Year Computer Science Student** at Universitas Pendidikan Indonesia.  
-📊 Aspiring **Data Analyst** & **Business Intelligence Analyst**.  
+📊 Aspiring **Data Scientist**, **Data Analyst** & **Business Intelligence Analyst**.  
 🚀 I specialize in transforming raw data into actionable business insights through **SQL**, **Python**, and **Interactive Dashboards**.
 
 ---
