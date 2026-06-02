@@ -22,22 +22,16 @@ Here are the tools and technologies I use to extract, clean, analyze, and visual
 
 ## 🌟 Featured Data Projects
 
-Here are some highlights from my data portfolio:
+Here is a summary of my data projects, ranging from predictive modeling to interactive business dashboards:
 
-### 🏦 Credit Risk Prediction (Home Credit Indonesia)
-* **Goal:** Predict client repayment abilities to reduce default risk.
-* **Tech:** Python, SQL, Machine Learning.
-* **Outcome:** Extracted/cleaned 5,000+ rows of data and built a predictive model.
-
-### 📊 Sales & Churn Dashboard (Bank Muamalat)
-* **Goal:** Visualize sales performance and user churn rates.
-* **Tech:** Google BigQuery, Looker Studio.
-* **Outcome:** Created interactive dashboards (Sales Robot & Digital User Churn) to track KPIs.
-
-### 🛍️ Shopee Sentiment Analysis (ETL Project)
-* **Goal:** Analyze product reviews to determine customer sentiment.
-* **Tech:** Python (NLP), ETL Pipelines.
-* **Outcome:** Automated the extraction and sentiment classification of product reviews.
+| Project Name & Link | Goal | Tech Stack | Key Outcome / Impact |
+| :--- | :--- | :--- | :--- |
+| [🏦 Credit Risk Prediction](https://github.com/defrijay/Predicting-the-Risk-of-Default-on-Home-Credit) | Predict client repayment abilities to reduce financial default risk. | Python, SQL, Sklearn, LightGBM, Excel | Built an end-to-end predictive model using alternative transaction data to improve loan approvals. |
+| [📊 Robot Sales Analytics Dashboard](https://github.com/defrijay/Robot-Sales-Analytics-Dashboard) | Analyze and visualize sales performance metrics across regions and categories. | Google BigQuery, SQL, Looker Studio | Integrated multi-source CSV data to create an interactive dashboard revealing AOV and bundling growth opportunities. |
+| [🛍️ Brazilian E-Commerce Analysis](https://github.com/defrijay/Brazilian-E-Commerce-Analysis) | Uncover monthly sales trends, seasonality, and geographical customer distribution. | Python, Streamlit, Pandas, Geopandas | Identified high-demand product categories and seasonal peaks to optimize marketing and inventory management. |
+| [🔒 Bank Transaction Fraud Detection](https://github.com/defrijay/Fraud-Detection-in-Bank-Transaction) | Build a hybrid system to detect anomalous and suspicious banking behaviors. | Python, Isolation Forest, Random Forest, TensorFlow (DNN) | Combined unsupervised clustering for label generation with supervised deep learning, achieving 98%+ accuracy. |
+| [🏡 Ames House Regression](https://github.com/defrijay/Ames-House-Regression) | Predict real estate house prices using advanced regression architectures. | Python, Pandas, XGBoost, Stacking Ensemble | Implemented a structured preprocessing pipeline and Stacking Regressor to minimize RMSE in price valuation. |
+| [📦 Shopee Sentiment Analysis (ETL)](https://github.com/defrijay/Meybeee-Store-Product-Sentiment) | Analyze product reviews to automatically determine customer sentiment trends. | Python, NLP, ETL Pipelines | Automated the extraction, text preprocessing, and classification of marketplace customer feedback. |
 
 ---
 
